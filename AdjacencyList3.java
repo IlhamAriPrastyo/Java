@@ -127,7 +127,7 @@ public class AdjacencyList3 {
         graph.addEdge(n11, n7);
         graph.addEdge(n12, n7);
 
-        graph.bfs(n9);
+        graph.bfs(n1);
 
     }
 }

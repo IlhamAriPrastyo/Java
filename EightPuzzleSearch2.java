@@ -1,12 +1,12 @@
 //ILHAM ARI PRASTYO
 //5311421014
-//MODUL 5 
+//MODUL 5 Soal 2
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class EightPuzzleSearch {
-    EightPuzzleSpace space = new EightPuzzleSpace();
+public class EightPuzzleSearch2 {
+    EightPuzzleSpace2 space = new EightPuzzleSpace2();
     List<Node> open = new ArrayList<>();
     List<Node> closed = new ArrayList<>();
 
@@ -118,6 +118,6 @@ public class EightPuzzleSearch {
 
     public static void main(String[] args) {
         // Melakukan pencarian
-        new EightPuzzleSearch().run();
+        new EightPuzzleSearch2().run();
     }
 }

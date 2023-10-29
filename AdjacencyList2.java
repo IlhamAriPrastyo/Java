@@ -108,6 +108,6 @@ public class AdjacencyList2 {
         graph.addEdge(n4, n1);
         graph.addEdge(n3, n1);
 
-        graph.bfs(n5);
+        graph.bfs(n0);
     }
 }
