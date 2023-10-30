@@ -13,7 +13,7 @@ lalu untuk EightPuzzleSearch 1 sampai 4 adalah program dari soal 1 sampai 4 untu
 MODUL 5
 1.  Pada kasus ini saat initial state [4 1 2 0 6 3 7 5 8] dan goal diubah akan menjadi [1 2 3 4 0 5 6 7 8]
     4 1 2 0 6 3 7 5 8
-    
+
     4 1 2 6 0 3 7 5 8
     4 1 2 6 5 3 7 0 8
     4 1 2 6 5 3 0 7 8
