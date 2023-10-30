@@ -118,7 +118,7 @@ MODUL 5
 
     1 2 3 4 0 5 6 7 8
   
-4.  pada kasus keempat dimulai dari inisial
+4.  pada kasus keempat dimulai dari inisial awal hingga mencapai tujuan disini untuk huruf A akan dilambangkan 1 dan seterusnya sampai H=8
 
     4 2 5 1 0 7 8 3 6
 
