@@ -37,7 +37,7 @@ public class EightPuzzleSpace1 {
 
     Node transformState(int r0, int c0, int r1, int c1, Node parent) {
         int[] s = parent.state;
-        int[] newState = {s[1], s[2], s[3], s[4], s[0], s[8], s[5], s[6], s[7]};
+        int[] newState = {s[0], s[1], s[2], s[3], s[4], s[5], s[6], s[7], s[8]};
         newState[(r1 * 3) + c1] = s[(r0 * 3) + c0];
         newState[(r0 * 3) + c0] = 0;
         return new Node(newState, parent);
