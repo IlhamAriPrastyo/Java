@@ -2,6 +2,9 @@ Nama : Ilham Ari Prastyo
 NIM : 5311421014
 MODUL 4
 
+ini jawaban hasil program diatas, untuk program adjacency ada 4 itu untuk soal no 1 sampai 4 pada modul 4
+lalu untuk EightPuzzleSearch 1 sampai 4 adalah program dari soal 1 sampai 4 untuk modul 5
+
 1.	Algoritma BFS dapat menemukan node 6,7,8 dari titik awal node 3. Untuk mencapai node 6 (n6), urutan node yang dilewati adalah n3, n2, n4, dan kemudian mencapai n6. Sedangkan untuk node 7 (n7) setelah sampai di n6 kemudian baru ke n7, sedangkan untuk n8 setelah sampai di n6 kemudian sampai di n8. Setiap node yang dilewati akan ditandai dengan Gray untuk  menandai jalur pencarian.
 2.	Untuk menemukan n5. Dalam kasus ini, jika kita mulai dari simpul `n0`, BFS akan pertama-tama menjelajahi tetangga-tetangga langsung dari `n0`, yaitu `n1` dan `n2`. Kemudian, dari `n1`, BFS akan menjelajahi tetangga-tetangga `n3` dan `n4`, dan dari `n2`, akan menjelajahi `n5` dan `n6`. Ketika BFS mencapai `n5`, maka perjalanan selesai karena sudah menjelajahi semua simpul yang dapat dijangkau dari `n0`. Dengan demikian, BFS berhasil menemukan `n5` dari `n0` dengan menghitung jarak terpendek yang adalah `2`. Ini didasarkan dari gambar 4.5.
 3.	Untuk menemukan n9 dalam kasus ini dari n1 maka akan menjelajah ke n2 n3 dan n4 terlebih dahulu yang memiiki distance 1. Kemudian dilanjutkan ke n5 n6 n7 dan n8 yang memiliki distance 2. Karena belum ketemu akan dilanjutakn ke distance 3 yaitu ke n9 n10 n11 dan n12, akhirnya ketemu n9 di distance 3 dari n1melewati n2 ke n5 lalu ke n9. 
