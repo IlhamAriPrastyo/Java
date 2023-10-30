@@ -13,6 +13,7 @@ lalu untuk EightPuzzleSearch 1 sampai 4 adalah program dari soal 1 sampai 4 untu
 MODUL 5
 1.  Pada kasus ini saat initial state [4 1 2 0 6 3 7 5 8] dan goal diubah akan menjadi [1 2 3 4 0 5 6 7 8]
     4 1 2 0 6 3 7 5 8
+    
     4 1 2 6 0 3 7 5 8
     4 1 2 6 5 3 7 0 8
     4 1 2 6 5 3 0 7 8
@@ -22,7 +23,7 @@ MODUL 5
     1 2 0 4 5 3 6 7 8
     1 2 3 4 5 0 6 7 8
     1 2 3 4 0 5 6 7 8
-2.  Pada kasus kedua pola yang akan terjadi dari posisi awal [1 5 3 4 6 8 2 7 0] sampai ke [7 6 5 8 0 4 1 2 3]
+3.  Pada kasus kedua pola yang akan terjadi dari posisi awal [1 5 3 4 6 8 2 7 0] sampai ke [7 6 5 8 0 4 1 2 3]
     1 5 3 4 6 8 2 7 0
     1 5 3 4 6 8 2 7 0
     1 5 3 4 6 0 2 7 8
@@ -46,7 +47,7 @@ MODUL 5
     7 6 5 1 8 4 1 2 3
     7 6 5 0 8 4 1 2 3
     7 6 5 8 0 4 1 2 3
-3.  pada kasus ketiga pola yang akan terjadi adalah dibawah ini, inisial state nya berasal dari urutan [1 2 3 4 5 6 7 8 0] sampai ke [1 2 3 4 0 5 6 7 8]
+4.  pada kasus ketiga pola yang akan terjadi adalah dibawah ini, inisial state nya berasal dari urutan [1 2 3 4 5 6 7 8 0] sampai ke [1 2 3 4 0 5 6 7 8]
     1 2 3 4 5 6 7 8 0
     1 2 3 4 5 6 7 0 8
     1 2 3 4 0 6 7 5 8
@@ -65,5 +66,5 @@ MODUL 5
     1 2 3 4 5 0 6 7 8
     1 2 3 4 0 5 6 7 8
     1 2 3 4 0 5 6 7 8
-4.  pada kasus keempat dimulai dari inisial 4
+5.  pada kasus keempat dimulai dari inisial 4
    
